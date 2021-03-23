@@ -11,3 +11,7 @@ No need to have a hundred different UI prefabs sitting in a scene being toggled 
 The UI Manager can instantiate and manage screens on-demand. 
 
 It is a cleaner, more streamlined, and easier to maintain approach to UI development than what Unity provides out of the box. 
+
+CONTRIBUTE
+
+
