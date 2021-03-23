@@ -14,4 +14,10 @@ It is a cleaner, more streamlined, and easier to maintain approach to UI develop
 
 CONTRIBUTE
 
+If you wish to contribute to this project fee free to open up a pull request and I will review it for inclusion.
+
+Same goes for bug fixes, if you find any, feel free to open up an Issue here on the GitHub repo or fix it yourself and create a pull request so we may all benefit. 
+
+
+
 
